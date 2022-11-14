@@ -1,0 +1,2 @@
+1) Rabin-Karp Algorithm for Substring Searching
+2) Hash Table Collision Resolution
